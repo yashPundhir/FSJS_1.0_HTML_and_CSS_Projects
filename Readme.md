@@ -27,3 +27,13 @@
 ## [Product HomePage (Project 7)](https://github.com/yashPundhir/Product_HomePage)
 
 ---
+
+## [Web Design Landing Page (Project 8)](https://github.com/yashPundhir/Web_Design_Landing_Page)
+
+---
+
+## [Developer Landing Page (Project 9)](https://github.com/yashPundhir/Developer_Landing_Page)
+
+---
+
+
