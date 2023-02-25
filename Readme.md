@@ -17,3 +17,13 @@
 ---
 
 ## [Crypto Landing HomePage (Project 5)](https://github.com/yashPundhir/Crypto_Landing_Page)
+
+---
+
+## [Plant HomePage (Project 6)](https://github.com/yashPundhir/Plant_HomePage)
+
+---
+
+## [Product HomePage (Project 7)](https://github.com/yashPundhir/Product_HomePage)
+
+---
