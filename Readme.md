@@ -36,4 +36,14 @@
 
 ---
 
+## [Interior Design Landing Page (Project 10)](https://github.com/yashPundhir/Interior_Design_Landing_Page)
+
+---
+
+## [Hosting Landing Page (Project 11)](https://github.com/yashPundhir/Hosting_Landing_Page)
+
+---
+
+
+
 
